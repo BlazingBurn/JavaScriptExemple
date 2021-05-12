@@ -1,0 +1,37 @@
+body {
+	text-align : center;
+}
+
+table {
+	border-collapse : collapse;
+	margin-right : auto;
+	margin-left : auto;
+}
+
+td {
+	border : solid 1px black;
+	width : 35px;
+	height : 35px;
+}
+
+button {
+	margin : 10px;
+	padding : 5px;
+	border-radius : 5px;
+}
+
+.vide {
+	background-color : white;
+}
+
+.visite {
+	background-color : cyan;
+}
+
+.clique {
+	background-color : green;
+}
+
+.carre {
+	background-color : red;
+}

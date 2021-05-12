@@ -1,0 +1,19 @@
+/*<!--
+NOURRY DIMITRI
+-->*/
+
+body {
+	text-align : center;
+}
+
+table {
+	border-collapse : collapse;
+	margin-right : auto;
+	margin-left : auto;
+}
+
+td {
+	border : solid 1px black;
+	width : 75px;
+	height : 75px;
+}
